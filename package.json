@@ -1,0 +1,11 @@
+{
+  "name": "project_500",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Fampo Jonas <'jojostra92@gmail.com'>",
+  "scripts": {},
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.32.8"
+  }
+}
